@@ -1,0 +1,5 @@
+C:\Users\Jacobkim\source\repos\2DGamedev_filledman\obj\Debug\net6.0\2DGamedev_filledman.csproj.AssemblyReference.cache
+C:\Users\Jacobkim\source\repos\2DGamedev_filledman\obj\Debug\net6.0\2DGamedev_filledman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacobkim\source\repos\2DGamedev_filledman\obj\Debug\net6.0\2DGamedev_filledman.AssemblyInfoInputs.cache
+C:\Users\Jacobkim\source\repos\2DGamedev_filledman\obj\Debug\net6.0\2DGamedev_filledman.AssemblyInfo.cs
+C:\Users\Jacobkim\source\repos\2DGamedev_filledman\obj\Debug\net6.0\2DGamedev_filledman.csproj.CoreCompileInputs.cache
